@@ -1,0 +1,41 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+config.php
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+/uploads/logs/
+
+# Cache
+/uploads/cache/
+
+# User uploads
+/uploads/users/
+/uploads/main/
+
+# Compiled
+*.min.css.map
+*.min.js.map
+
+# Archives
+*.zip
+*.tar.gz
+*.rar

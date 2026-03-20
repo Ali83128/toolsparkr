@@ -5,7 +5,7 @@
 ### 35+ Free Online Developer Tools — No Signup Required
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftoolsparkr.com&style=for-the-badge&label=toolsparkr.com)](https://toolsparkr.com)
-[![Tools](https://img.shields.io/badge/Tools-35%2B-2563EB?style=for-the-badge)](https://toolsparkr.com)
+[![Tools](https://img.shields.io/badge/Tools-35%2B-6366F1?style=for-the-badge)](https://toolsparkr.com/tools)
 [![License](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge)](LICENSE)
 
 **[toolsparkr.com](https://toolsparkr.com)**
@@ -24,76 +24,70 @@ Need to format JSON? Generate a UUID? Check DNS records? Encode a URL? ToolSpark
 
 ## Tools
 
-### Developer Tools
+### Converters
 
 | Tool | Description |
 |------|-------------|
-| [JSON Formatter & Validator](https://toolsparkr.com/tools/json-formatter-validator) | Format, validate, and beautify JSON data |
-| [CSS Minifier](https://toolsparkr.com/tools/css-minifier) | Minify CSS to reduce file size |
-| [HTML Minifier](https://toolsparkr.com/tools/html-minifier) | Minify HTML for faster page loads |
-| [JS Minifier](https://toolsparkr.com/tools/js-minifier) | Minify JavaScript code |
-| [Markdown to HTML](https://toolsparkr.com/tools/markdown-to-html) | Convert Markdown to clean HTML |
-| [Meta Tags Checker](https://toolsparkr.com/tools/meta-tags-checker) | Analyze meta tags of any webpage |
-| [Lorem Ipsum Generator](https://toolsparkr.com/tools/lorem-ipsum-generator) | Generate placeholder text |
+| [JSON to CSV Converter](https://toolsparkr.com/json-to-csv) | Convert JSON data to CSV format |
+| [CSV to JSON Converter](https://toolsparkr.com/csv-to-json) | Convert CSV files to JSON |
+| [Color Converter](https://toolsparkr.com/color-converter) | Convert between HEX, RGB, HSL |
+| [Binary Converter](https://toolsparkr.com/binary-converter) | Convert between text and binary |
+| [Morse Code Converter](https://toolsparkr.com/morse-converter) | Convert text to Morse code and back |
+| [RGB to HEX](https://toolsparkr.com/rgb-to-hex) | Convert RGB values to HEX codes |
 
 ### Generators
 
 | Tool | Description |
 |------|-------------|
-| [Password Generator](https://toolsparkr.com/tools/password-generator) | Create strong random passwords |
-| [UUID v4 Generator](https://toolsparkr.com/tools/uuid-v4-generator) | Generate universally unique identifiers |
-| [Random Number Generator](https://toolsparkr.com/tools/random-number-generator) | Generate random numbers in any range |
-| [Slug Generator](https://toolsparkr.com/tools/slug-generator) | Create URL-friendly slugs from text |
-| [Lorem Ipsum Generator](https://toolsparkr.com/tools/lorem-ipsum-generator) | Generate placeholder text for designs |
+| [Password Generator](https://toolsparkr.com/password-generator) | Create strong random passwords |
+| [QR Code Reader](https://toolsparkr.com/qr-code-reader) | Generate and read QR codes |
+| [UUID v4 Generator](https://toolsparkr.com/uuid-v4-generator) | Generate universally unique identifiers |
+| [Lorem Ipsum Generator](https://toolsparkr.com/lorem-ipsum-generator) | Generate placeholder text |
+| [Slug Generator](https://toolsparkr.com/slug-generator) | Create URL-friendly slugs from text |
+| [Text Reverser](https://toolsparkr.com/text-reverser) | Reverse text by characters or words |
+| [Case Converter](https://toolsparkr.com/case-converter) | Convert text between UPPER, lower, Title, camelCase, snake_case |
+| [Word Counter](https://toolsparkr.com/word-counter) | Count words, characters, sentences, paragraphs |
+| [Timestamp Converter](https://toolsparkr.com/timestamp-converter) | Convert Unix timestamps to dates and back |
 
-### Converters
-
-| Tool | Description |
-|------|-------------|
-| [Base64 Encoder](https://toolsparkr.com/tools/base64-encoder) | Encode text or files to Base64 |
-| [Base64 Decoder](https://toolsparkr.com/tools/base64-decoder) | Decode Base64 strings back to text |
-| [URL Encoder](https://toolsparkr.com/tools/url-encoder) | Percent-encode URLs and query strings |
-| [URL Decoder](https://toolsparkr.com/tools/url-decoder) | Decode percent-encoded URLs |
-| [Binary Converter](https://toolsparkr.com/tools/binary-converter) | Convert between binary, decimal, hex, and octal |
-| [Case Converter](https://toolsparkr.com/tools/case-converter) | Convert text between UPPER, lower, Title, and more |
-| [Morse Converter](https://toolsparkr.com/tools/morse-converter) | Convert text to Morse code and back |
-| [Color Picker](https://toolsparkr.com/tools/color-picker) | Pick colors and convert between HEX, RGB, HSL |
-
-### Security & Hashing Tools
+### Security & Hashing
 
 | Tool | Description |
 |------|-------------|
-| [MD5 Generator](https://toolsparkr.com/tools/md5-generator) | Generate MD5 hashes from text |
-| [SHA-1 Generator](https://toolsparkr.com/tools/sha1-generator) | Generate SHA-1 hashes |
-| [SHA-256 Generator](https://toolsparkr.com/tools/sha256-generator) | Generate SHA-256 hashes |
-| [Bcrypt Generator](https://toolsparkr.com/tools/bcrypt-generator) | Hash and verify passwords with bcrypt |
-| [Password Strength Checker](https://toolsparkr.com/tools/password-strength-checker) | Test how strong your password is |
+| [MD5 Generator](https://toolsparkr.com/md5-generator) | Generate MD5 hashes from text |
+| [SHA-256 Hash Generator](https://toolsparkr.com/sha256-hash-generator) | Generate SHA-256 cryptographic hashes |
+| [Bcrypt Hash Generator](https://toolsparkr.com/bcrypt-hash-generator) | Hash and verify passwords with bcrypt |
+| [HTML Entity Encoder](https://toolsparkr.com/html-entity-encoder) | Encode special characters to HTML entities |
+| [Text to Binary](https://toolsparkr.com/text-to-binary) | Convert text to binary format |
+| [Hex to Text](https://toolsparkr.com/hex-to-text) | Convert hexadecimal strings to text |
 
-### Text Tools
-
-| Tool | Description |
-|------|-------------|
-| [Character Counter](https://toolsparkr.com/tools/character-counter) | Count characters, words, sentences, and paragraphs |
-| [Email Extractor](https://toolsparkr.com/tools/email-extractor) | Extract email addresses from any text |
-| [Text to Speech](https://toolsparkr.com/tools/text-to-speech) | Convert text to spoken audio |
-
-### Network & DNS Tools
+### Developer Tools
 
 | Tool | Description |
 |------|-------------|
-| [DNS Lookup](https://toolsparkr.com/tools/dns-lookup) | Query DNS records for any domain |
-| [IP Lookup](https://toolsparkr.com/tools/ip-lookup) | Get geolocation and details for any IP address |
-| [WHOIS Lookup](https://toolsparkr.com/tools/whois-lookup) | Look up domain registration information |
+| [JSON Validator & Beautifier](https://toolsparkr.com/json-validator-beautifier) | Validate, format, and beautify JSON data |
+| [Base64 Encoder/Decoder](https://toolsparkr.com/base64-encoder) | Encode and decode Base64 strings |
+| [URL Encoder/Decoder](https://toolsparkr.com/url-encoder) | Encode and decode URLs |
+| [CSS Minifier](https://toolsparkr.com/css-minifier) | Minify CSS to reduce file size |
+| [HTML Minifier](https://toolsparkr.com/html-minifier) | Minify HTML for faster page loads |
 
-### Image Tools
+### Network Tools
 
 | Tool | Description |
 |------|-------------|
-| [Image Optimizer](https://toolsparkr.com/tools/image-optimizer) | Compress images without losing quality |
-| [EXIF Reader](https://toolsparkr.com/tools/exif-reader) | Read EXIF metadata from photos |
-| [QR Code Reader](https://toolsparkr.com/tools/qr-code-reader) | Scan and decode QR codes from images |
-| [Barcode Reader](https://toolsparkr.com/tools/barcode-reader) | Read barcodes from uploaded images |
-| [YouTube Thumbnail Downloader](https://toolsparkr.com/tools/youtube-thumbnail-downloader) | Download thumbnails from any YouTube video |
+| [DNS Lookup](https://toolsparkr.com/dns-lookup) | Query DNS records for any domain |
+| [IP Lookup](https://toolsparkr.com/ip-lookup) | Get geolocation and details for any IP |
+| [WHOIS Lookup](https://toolsparkr.com/whois-lookup) | Look up domain registration info |
+| [SSL Checker](https://toolsparkr.com/ssl-checker) | Check SSL certificate status |
+
+### Other Tools
+
+| Tool | Description |
+|------|-------------|
+| [Email Extractor](https://toolsparkr.com/email-extractor) | Extract email addresses from any text |
+| [Image Optimizer](https://toolsparkr.com/image-optimizer) | Compress images without losing quality |
+| [Meta Tags Checker](https://toolsparkr.com/meta-tags-checker) | Analyze meta tags of any webpage |
+| [HTTP Headers Lookup](https://toolsparkr.com/http-headers-lookup) | Inspect HTTP response headers |
+| [User Agent Parser](https://toolsparkr.com/user-agent-parser) | Parse and analyze browser user agent strings |
 
 ---
 
@@ -110,13 +104,19 @@ Need to format JSON? Generate a UUID? Check DNS records? Encode a URL? ToolSpark
 
 ## Built With
 
-- **PHP 8.3** — server-side framework
-- **MySQL** — database
-- **Apache** — web server
+- **Python Flask** — web framework
+- **SQLite** — database (blog posts, SEO pages)
+- **Jinja2** — templating
+- **Gunicorn** — WSGI server
+- **Vanilla JavaScript** — client-side tool logic
 - **Cloudflare** — CDN, DDoS protection, HTTP/3
 - **Let's Encrypt** — SSL/TLS
-- **Bootstrap** — responsive UI
-- **JavaScript** — client-side tool logic
+
+---
+
+## Blog
+
+45+ developer tutorials and guides at [toolsparkr.com/blog](https://toolsparkr.com/blog)
 
 ---
 
@@ -124,7 +124,7 @@ Need to format JSON? Generate a UUID? Check DNS records? Encode a URL? ToolSpark
 
 Found a bug? Have a tool suggestion? We'd love to hear from you.
 
-- Open an [issue](https://github.com/toolsparkr/toolsparkr/issues) to report bugs or request features
+- Open an [issue](https://github.com/Ali83128/toolsparkr/issues) to report bugs or request features
 - Star the repo if you find it useful
 
 ---
